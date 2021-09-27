@@ -1,0 +1,6 @@
+framework module QySdk {
+  umbrella header "QySdk.h"
+
+  export *
+  module * { export * }
+}
